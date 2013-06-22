@@ -16,7 +16,7 @@
     "node": "~0.2"
   },
   "dependencies": {
-    "oauth-client": "~0.1.5"
+    "oauth-client": "~0.3.0"
   },
   "main": "lib/etsy.js",
   "homepage": "https://github.com/Imperion/node-etsy"
